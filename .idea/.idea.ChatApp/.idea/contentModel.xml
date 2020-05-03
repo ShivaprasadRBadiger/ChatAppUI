@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\prasa\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\prasa\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ChatApp.1315541658.00" t="ExcludeRecursive" />
+    <e p="D:\Development\InterviewAssignments\ChatApp" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ChatApp" t="Include">
+          <e p="ChatBot" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="ChatBotBehaviour.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ChatHistory" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="ChatData.cs" t="Include" />
+              <e p="ChatHistoryItemView.cs" t="Include" />
+              <e p="ChatHistoryView.cs" t="Include" />
+              <e p="OtherChatHistoryItemView.cs" t="Include" />
+              <e p="SelfChatHistoryItemView.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ChatInputPanel" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="ChatInputBehaviour.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Common" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="StateManager.cs" t="Include" />
+              <e p="UIExtensions" t="Include">
+                <e p="UIFlippable.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="ContactsModule" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="ContactsEntry.cs" t="Include" />
+            </e>
+          </e>
+          <e p="QuitDialog" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="QuitDialogView.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="EventSystem" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="EventManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Pooling" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="MonoPool.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="ChatApp.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
